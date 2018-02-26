@@ -57,4 +57,4 @@ echo "The square of $x is $sqr"
 a=$sqr
 b=3
 s=$(sum)
-echo "The sum of $sqr and 3 is $s"
+echo "The sum of $a and $b is $s"
